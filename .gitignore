@@ -1,2 +1,6 @@
 geotagged/
-odm/
+**/images/
+**/odm*
+**/opensfm/
+*.json
+**/img_list.txt

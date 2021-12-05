@@ -1,0 +1,15 @@
+ODM Benchmarking file created Sun Dec 05 22:57:41  2021
+Number of Cores: 12
+
+dataset runtime: 0.337432 seconds
+split runtime: 8e-05 seconds
+merge runtime: 4.4e-05 seconds
+opensfm runtime: 102.985639 seconds
+odm_filterpoints runtime: 0.388591 seconds
+odm_meshing runtime: 154.384664 seconds
+mvs_texturing runtime: 55.495863 seconds
+odm_georeferencing runtime: 0.416902 seconds
+odm_dem runtime: 0.000402 seconds
+odm_orthophoto runtime: 19.19991 seconds
+odm_report runtime: 0.151712 seconds
+odm_postprocess runtime: 8e-05 seconds
