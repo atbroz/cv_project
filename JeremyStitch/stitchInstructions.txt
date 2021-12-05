@@ -1,0 +1,29 @@
+stitchInstructions.txt
+
+-------------------------------------------------------------------
+stitch.py basic usage
+--------------------------------------------------------------
+python3 stitch.py -i 'path to images' -o 'output filename' -m 'mode'
+
+----------------------------------------------------------------------------
+examples
+-----------------------------------------------------------------
+for geotagged subset
+python3 .\stitch.py -i .\geoSubset\ -o output.jpg -m 0
+for brighton set
+python3 .\stitch.py -i .\brighton\ -o output.jpg -m 1
+
+
+---------------------------------------------------------------------------------
+batchedHomography.py basic usage
+---------------------------------------------------------------------------------
+python3 batchedHomography.py -i 'path to images'
+output is 'tripleoutput.jpg'
+----------------------------------------------------------------------------
+examples
+-----------------------------------------------------------------
+for geotagged subset
+python3 .\stitch.py -i .\geoSubset\
+for brighton set
+python3 .\stitch.py -i .\brighton\
+
