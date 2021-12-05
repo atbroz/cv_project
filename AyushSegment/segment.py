@@ -96,7 +96,7 @@ def means_shift(img, ker, w):
 
 
 def segmented_outputs(img, cluster, k=0.25):
-    #k is resize factor
+    #k is resize factor. Default is set to 0.25
     colors = np.unique(cluster.reshape(-1, cluster.shape[2]), axis=0)
     mask = [np.array(img) for i in range(colors.shape[0])]
     for color in range(colors.shape[0]):
