@@ -1,5 +1,8 @@
-#Links to Datasets:
-Ful
+Links to Datasets:
+Full list of ODM datasets: https://www.opendronemap.org/odm/datasets/
+Sheffield dataset: https://github.com/pierotofy/drone_dataset_sheffield_park_3/tree/master
+Brighton dataset: https://github.com/pierotofy/drone_dataset_brighton_beach/tree/master
+USL dataset: https://drive.google.com/drive/u/1/folders/1TrVu8ajLVXVR28UcwqphsvszsWp-KE-M
 
 
 
